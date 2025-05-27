@@ -4,7 +4,8 @@ This is an interactive dashboard built using [Dash](https://dash.plotly.com/), [
 
 > ✅ Built as a learning project while following a YouTube tutorial and applying logistics domain insights.
 
-This project was created for hands-on learning of:
+## This project was created for hands-on learning of:
+
 -Dash layouts & callbacks
 -Data filtering and transformation
 -Creating visuals with Plotly
