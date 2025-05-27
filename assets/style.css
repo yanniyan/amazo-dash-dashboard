@@ -1,0 +1,87 @@
+.container-fluid {
+  padding: 20px;
+}
+
+body {
+  background-color: #1e1e2f;
+  color: #e0e0e0;
+  font-family: "Arial", sans-serif;
+}
+
+.container-fluid {
+  padding: 20px;
+}
+
+h1 {
+  color: #e0e0e0;
+  font-family: "fantasy", "Lucida Console", "Courier New", monospace;
+  font-size: 4.5rem;
+  font-weight: bold;
+}
+
+.summary-div {
+  background-color: #3a3a5e;
+  border-radius: 10px;
+  box-shadow: #d4d4dc;
+  padding: 20px;
+}
+
+.card {
+  background-color: #3a3a5e;
+  border-radius: 10px;
+  box-shadow: #d4d4dc;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+.card .card-title {
+  color: #d4d4dc;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.card .card.body {
+  padding: 20px;
+}
+.card .card-text {
+  color: #e0e0e0; /* Cream color */
+  font-size: 22px; /* Larger text */
+  text-align: center; /* Center text horizontally */
+  display: flex;
+  justify-content: center; /* Centers text horizontally */
+  align-items: center; /* Centers text vertically */
+  height: 100%; /* Ensures the text fills the card */
+}
+
+.top-text {
+  font-size: 30px;
+  font-family: "fantasy", "Lucida Console", "Courier New", monospace;
+}
+
+.dropdown,
+.radioitems {
+  font-family: "fantasy", "Lucida Console", "Courier New", monospace;
+  font-size: 30px;
+  color: #e0e0e0;
+}
+
+.graph {
+  padding: 5px;
+  background-color: mintcream;
+  border-radius: 8px;
+}
+
+.slider {
+  margin: 20px 0;
+}
+
+.row {
+  margin-bottom: 15px;
+}
+
+.col {
+  padding: 0 10px;
+}
+
+.mb-3 {
+  margin-bottom: 20px;
+}/*# sourceMappingURL=style.css.map */
