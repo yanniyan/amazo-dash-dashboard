@@ -12,6 +12,7 @@ This is an interactive dashboard built using [Dash](https://dash.plotly.com/), [
 -Applying analytics to sales/logistics data
 
 > Tutorial = https://youtu.be/ArnxeE1NuMM?si=QDmMLKLXK8K4FeZU
+> 
 > Data = https://www.kaggle.com/datasets/zahidmughal2343/amazon-sales-2025
 
 ---
