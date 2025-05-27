@@ -8,9 +8,12 @@ This is an interactive dashboard built using [Dash](https://dash.plotly.com/), [
 
 -Dash layouts & callbacks
 >
--Data filtering and transformation >
--Creating visuals with Plotly >
--Applying analytics to sales/logistics data >
+-Data filtering and transformation
+>
+-Creating visuals with Plotly 
+>
+-Applying analytics to sales/logistics data
+>
 
 > Tutorial = https://youtu.be/ArnxeE1NuMM?si=QDmMLKLXK8K4FeZU
 > 
