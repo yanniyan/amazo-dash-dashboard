@@ -6,13 +6,13 @@ This is an interactive dashboard built using [Dash](https://dash.plotly.com/), [
 
 ## This project was created for hands-on learning of:
 
--Dash layouts & callbacks
+- Dash layouts & callbacks
 >
--Data filtering and transformation
+- Data filtering and transformation
 >
--Creating visuals with Plotly 
+- Creating visuals with Plotly 
 >
--Applying analytics to sales/logistics data
+- Applying analytics to sales/logistics data
 >
 
 > Tutorial = https://youtu.be/ArnxeE1NuMM?si=QDmMLKLXK8K4FeZU
