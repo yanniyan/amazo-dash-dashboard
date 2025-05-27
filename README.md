@@ -7,6 +7,7 @@ This is an interactive dashboard built using [Dash](https://dash.plotly.com/), [
 ## This project was created for hands-on learning of:
 
 -Dash layouts & callbacks
+>
 -Data filtering and transformation
 -Creating visuals with Plotly
 -Applying analytics to sales/logistics data
